@@ -1,1 +1,1 @@
-# CIS522
+# Generic Sign Language Translator
